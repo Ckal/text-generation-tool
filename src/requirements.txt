@@ -1,6 +1,6 @@
 smolagents
 transformers>=4.35.0
-gradio>=4.0.0
+gradio>=4.44.0
 #diffusers
 accelerate
 torch
