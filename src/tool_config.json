@@ -1,0 +1,5 @@
+{
+  "description": "This is a tool that comletes or generates text. It takes a prompt as input. It returns a text message.",
+  "name": "text_generator",
+  "tool_class": "text_generator.TextGenerationTool"
+}
